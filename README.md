@@ -13,3 +13,5 @@ I'm Frontend Developer from Kyrgyzstan .I m 17
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=black"/>
 <img src="https://img.shields.io/badge/Sass-rgb(255, 233, 255)?style=for-the-badge&logo=Sass&logoColor=pink"/> 
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=blue"/> 
+<img src="https://img.shields.io/badge/Bootstrap-712cf9?style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=FFFFFF"/> 
