@@ -1,7 +1,7 @@
 ### Hi 
 
 ###                                            I'm Daur
-I'm Frontend Developer from Kyrgyzstan .I m 17  
+I'm Frontend Developer from Kyrgyzstan .I m 18  
 
 
 ###                                            Techonloges
